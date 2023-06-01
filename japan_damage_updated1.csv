@@ -1,0 +1,62 @@
+Year,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subsubtype,Location,Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Local Time,Start Year,Start Month,Start Day,Total Deaths,No Injured,No Homeless,Total Affected,"Total Damages, Adjusted ('000 US$)"
+1901,Natural,Geophysical,Earthquake,,Sanriku,8,Richter,40.5,142.5,03:33,1901,8,10,18,0,24,42,
+1914,Natural,Geophysical,Earthquake,,Akita Senboku,7,Richter,39.2,139.8,05:00,1914,3,16,94,324,1920,2338,
+1923,Natural,Geophysical,Earthquake,,"Kanto plaine (Yokohama,Tokyo)",8,Richter,35.413,139.298,11:58,1923,9,1,143000,103733,,246733,10282909
+1927,Natural,Geophysical,Earthquake,,"Tango, Honshu",7,Richter,35.632,135.013,18:27,1927,3,7,3022,3295,46782,53099,672395
+1930,Natural,Geophysical,Earthquake,,Idu (Honshu),7,Richter,35.05,139.129,04:02,1930,11,26,259,1825,24297,26381,
+1943,Natural,Geophysical,Earthquake,,Tottori (Honshu Isl.),7,Richter,35.448,133.993,17:37,1943,9,10,1400,,23217,24617,
+1944,Natural,Geophysical,Earthquake,,"Tonankai, Hondo",8,Richter,33.682,36.204,13:35,1944,12,7,1223,2135,78438,81796,
+1945,Natural,Geophysical,Earthquake,,"Mikawa (Near Nagoya, Honshu Isl.)",7,Richter,34.612,137.064,03:38,1945,1,13,2306,896,21663,24865,
+1948,Natural,Geophysical,Earthquake,,Fukui,7,Richter,36.5,136,16:13,1948,6,28,5131,11000,315000,331131,12153392
+1952,Natural,Geophysical,Earthquake,,Hokkaido Isl.,8,Richter,42.084,143.899,10:22,1952,3,4,33,200,,233,
+1964,Natural,Geophysical,Earthquake,,"Niigata, Hodo Isl.",7,Richter,38.67,139.195,13:01,1964,6,16,25,376,,401,7548326
+1968,Natural,Geophysical,Earthquake,,Aomori Prefecture - Hokkaido,7,Richter,40.5,140.43,,1968,5,17,47,281,,328,1102188
+1974,Natural,Geophysical,Earthquake,,"Izu-Hanto, Nakagi",7,Richter,34.522,138.74,08:33,1974,5,9,30,73,,103,
+1978,Natural,Geophysical,Earthquake,,"Oshima, Yokohama, Tokkaido",7,Richter,34.809,139.259,12:24,1978,1,14,25,129,255,409,
+1978,Natural,Geophysical,Earthquake,,Sendai (Near Esat coast of Honshu),8,Richter,38.19,142.028,17:14,1978,6,12,28,500,,528,3880630
+1980,Natural,Geophysical,Earthquake,,"Tokyo, Kanto region",6,Richter,35.45,139.964,02:54,1980,9,25,2,73,,75,3551
+1982,Natural,Geophysical,Earthquake,,"Hokkaido, Urakawa, Hiroo",7,Richter,42.158,142.361,11:32,1982,3,21,110,100,,210,3033
+1983,Natural,Geophysical,Earthquake,,Near South coast Honshu,5,Richter,35.5,139.07,12:47,1983,8,8,1,28,,29,
+1983,Natural,Geophysical,Earthquake,,"Nihon- Kai-Chubu, Western Honshu, Akita, Aomori, Hokkaido",8,Richter,40.462,139.102,11:59,1983,5,26,102,77,,179,1222334
+1984,Natural,Geophysical,Earthquake,,Kyushu (Shikoku Island),7,Richter,32.50 N,130.42 E,,1984,8,6,0,9,204000,204009,
+1987,Natural,Geophysical,Earthquake,,Chiba prefecture (Near Tokyo),6,Richter,35.38,140.214,11:08,1987,12,17,2,53,,55,
+1992,Natural,Geophysical,Earthquake,,Kanto area (Tokyo),6,Richter,35.106 N,139.644 E,,1992,2,2,0,32,0,32,
+1993,Natural,Geophysical,Earthquake,,Okushiri Island (Hokkaido),8,Richter,42.851 N,139.197 E,,1993,7,12,239,233,1620,2092,2025877
+1993,Natural,Geophysical,Earthquake,,Near Kushiro (Hokkaido),8,Richter,43.300 N,143.691 E,,1993,1,15,2,722,,724,725264
+1994,Natural,Geophysical,Earthquake,,East coast of Hokaido Isl.,8,Richter,45.10 N,147.51 E,,1994,10,4,5,1500,,1505,
+1994,Natural,Geophysical,Earthquake,,Hachinohe (North-East Honshu),8,Richter,40.5 N,143.4 E,,1994,12,28,2,285,,287,336437
+1995,Natural,Geophysical,Earthquake,,"Kobe, Osaka, Hyigo, Kyoto prefecture",7,Richter,34.58 N,135.0 E,05:46,1995,1,17,5297,34492,251301,291090,192051751
+1995,Natural,Geophysical,Earthquake,,Niigata (Eastern Honshu),5,Richter,37.925 N,139.186 E,,1995,4,1,39,39,,78,
+2000,Natural,Geophysical,Earthquake,,"Aimityoo, Kisimototyoo, Mizokutityoo, Saihakutyoo, Daisentyoo, Nawatyoo, Nakayamatyoo, Hieduson districts (Tottori province), Simane, Okayama provinces",7,Richter,35.456,133.134,13:35,2000,10,6,0,130,312,442,849753
+2001,Natural,Geophysical,Earthquake,,"Hirosima, Ehime provinces",7,Richter,34.083,132.526,15:28,2001,3,24,2,161,,163,826397
+2003,Natural,Geophysical,Earthquake,,"Iwate, Miyagi, Yamagata, Akita, Aomori provinces",7,Richter,38.849,141.568,18:24,2003,5,26,0,143,1830,1793,370674
+2003,Natural,Geophysical,Earthquake,,Hokkaidoo province,7,Richter,41.774,143.593,04:50,2003,9,25,2,773,,775,895663
+2003,Natural,Geophysical,Earthquake,,"Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku, Isinomakisi, Hurukawasi, Kasimadaimati, Nangootyoon, Narusetyoo, Yamototyoo, Yoneyamatyoo districts (Miyagi province)",6,Richter,38.432,141.003,07:13,2003,7,25,0,569,219,788,653850
+2004,Natural,Geophysical,Earthquake,,"Odiyasi, Nagaokasi, Tookamatisi districts (Niigata province)",7,Richter,37.226,138.779,17:56,2004,10,23,40,3183,,3223,43383054
+2005,Natural,Geophysical,Earthquake,,Hukuoka province,7,Richter,33.807,130.131,10:53,2005,3,20,1,735,,736,599421
+2005,Natural,Geophysical,Earthquake,,"Hukuoka, Saga provinces",6,Richter,33.637,130.179,,2005,4,19,1,58,1125,1184,
+2007,Natural,Geophysical,Earthquake,,"Nanao, Wajima districts (Isikawa province), Niigata, Toyama provinces",7,Richter,37.336,136.588,09:42,2007,3,25,1,359,40668,41028,352864
+2007,Natural,Geophysical,Earthquake,,"Aikawamati, Akadomarimura, Hatanomati, Izumozakimati, Kanaimati, Kariwamura, Kasiwazakisi, Manomati, Nagaokasi, Niigatasi, Odiyasi, Ogimati, Sanzyoosi, Sawatamati, Yosidamati, Zyooetusi districts (Niigata province), Nagano, Toyama provinces",7,Richter,37.535,138.446,10:13,2007,7,16,9,1000,,1009,17643208
+2007,Natural,Geophysical,Earthquake,,"Mie, Nara, Siga provinces",5,Richter,34.807,136.239,,2007,4,15,0,12,315,327,
+2008,Natural,Geophysical,Earthquake,,"Mizusawasi, Moriokasi districts (Iwate province), Tukidatetyoo, Hurukawasi, Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku districts (Miyagi province), Akita province",7,Richter,39.03,140.881,08:43,2008,6,13,23,448,,471,226999
+2008,Natural,Geophysical,Earthquake,,Hatinohesi district (Aomori province),7,Richter,39.802,141.464,00:26,2008,7,23,1,200,,201,149520
+2011,Natural,Geophysical,Earthquake,,"Ishinomakisi, Onagawatyoo districts (Miyagi province), Yamagata province",7,Richter,38.276,141.588,23:32,2011,4,7,2,132,,134,
+2009,Natural,Geophysical,Earthquake,,"Sizuokasi, Yaidusi, Sagaratyoo, Huziedasi, Simadasi, Kakegawasi, Haibaratyoo districts (Sizuola province), Tookyoo province",6,Richter,34.743,138.264,05:07,2009,8,10,1,319,,320,545649
+2011,Natural,Geophysical,Earthquake,,"Hokkaidoo, Akita, Aomori, Yamagata, Miyagi, Iwate, Hukusima, Tookyoo, Ibaraki, Totigi, Gunma, Saitama, Tiba, Kanagawa, Nagano provinces",9,Richter,38.297,142.373,14:46,2011,3,11,19846,5933,,25779,273218373
+2013,Natural,Geophysical,Earthquake,,Hyogo province,6,Richter,34.369,134.828,05:33,2013,4,12,25,32,9560,9617,
+2014,Natural,Geophysical,Earthquake,,"Hakuba village (Hakubamura district, Nagano province)",6,Richter,36.6408,137.8875,22:08,2014,11,22,0,41,150,191,2472
+2016,Natural,Geophysical,Earthquake,,Kumamoto province (Kyushu Isl.),7,Richter,32.788,130.7,21:26,2016,4,14,9,800,,809,46335626
+2016,Natural,Geophysical,Earthquake,,"Kumamoto, Fukuoka, Saga, Oita, Miyazaki provinces",7,Richter,32.791,130.75,17:00,2016,4,16,49,1684,23985,25718,24387171
+2016,Natural,Geophysical,Earthquake,,"Kurayoshi city (Kurayosisi district, Tottori province)",6,Richter,35.37,133.812,,2016,10,21,0,7,6,13,121936
+2018,Natural,Geophysical,Earthquake,,"Atsuma village, Abira, Sapporo (Hokkaido)",7,Richter,,,03:00,2018,9,6,41,680,,721,1456825
+2018,Natural,Geophysical,Earthquake,,"Hyogo, Kyoto, Nara, Osaka Prefectures",6,Richter,34.826,135.64,07:58,2018,6,18,5,417,,422,3787745
+2019,Natural,Geophysical,Earthquake,,"Yamagata, Miyagi, Niigata,Ishikawa (Honshu Island)",6,Richter,38.637,139.48,,2019,6,18,0,28,0,28,
+1909,Natural,Geophysical,Earthquake,,Oomi,7,Richter,35.4,136.3,15:30,1909,8,14,41,,2928,2969,
+1911,Natural,Geophysical,Earthquake,,Ryukyu Islands,8,Richter,28,130,23:26,1911,6,15,12,,1266,1278,
+1925,Natural,Geophysical,Earthquake,,Tajima (Honshu),7,Richter,35.423,135.007,11:09,1925,5,23,395,,9999,10394,
+1939,Natural,Geophysical,Earthquake,,Honshu,7,Richter,39.945,139.682,14:58,1939,5,1,27,52,1437,1516,
+1952,Natural,Geophysical,Earthquake,,Hokkaido,7,Richter,41.831,143.525,02:03,1952,3,10,94,17,339,450,
+1973,Natural,Geophysical,Earthquake,,Hokkaido Isl.,8,Richter,43.233,145.785,12:55,1973,6,17,0,27,0,27,32957
+2021,Natural,Geophysical,Earthquake,,Namie region,7,Richter,37.745,141.749,23:07,2021,2,13,1,185,60,246,8316216
+2021,Natural,Geophysical,Earthquake,,Honshu Island,7,Richter,38.475,141.633,18:09,2021,3,20,0,11,0,11,594015
+2022,Natural,Geophysical,Earthquake,,Fukushima Prefecture,7,Richter,37.702,141.587,23:36,2022,3,16,3,183,0,186,8800000
